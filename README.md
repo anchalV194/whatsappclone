@@ -1,6 +1,6 @@
 # whatsapp
 
-A whatsapp clone project.
+This project is a clone of WhatsApp, built to simulate core features of the original app including real-time messaging, status updates, contacts, and media sharing. It uses Firebase as the backend for authentication, database, and storage, and is built using Flutter 
 
 ## Getting Started
 
